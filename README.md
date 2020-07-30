@@ -1,8 +1,6 @@
 # IO-Gateway
 
-**NOTA** Progetto in fase di sviluppo, non ancora utilizzabile.
-
-IO-Gateway è un server per l'invio di messaggi ai cittadini italiani usando l'[app IO](https://io.italia.it/), l'app dei servizi pubblici italiani.
+IO-Gateway  (precedentemete IO-SDK) è un server per l'invio di messaggi ai cittadini italiani usando l'[app IO](https://io.italia.it/), l'app dei servizi pubblici italiani.
 
 Si tratta di un server a nodo singolo, progettato per l'uso periferico e decentralizzato, che può essere installato anche in workstation o server interni ai datacenter delle pubbliche amministrazioni.
 
@@ -10,15 +8,19 @@ Si tratta di un server a nodo singolo, progettato per l'uso periferico e decentr
 
 Il server è un progetto Open Source, sponsorizzato da [PagoPA spa](https://www.pagopa.gov.it/) e gestito dall'[Associazione NoiOpen](https://noiopen.it)
 
-## Risorse Utenti
+## Risorse Utente
 
--   File di installazione: TODO
--   Documentazione: TODO
--   [Issue tracker principale] su PagoPa per bug reports e feature requests
--   [Repository principale] su PagoPA per la distribuzione dei sorgenti
+-   [File di installazione] 
+-   [Documentazione Installazione]  
+-   [Documentazione Utente] 
+-   [Issue tracker principale] per bug reports e feature requests
+-   [Repository principale] per la distribuzione dei sorgenti
 
+    [File di installazione]: https://github.com/pagopa/io-sdk/releases
+    [Documentazione Utente]: https://github.com/pagopa/io-sdk/blob/master/docs/utente.md
+    [Documentazione Installazione]: https://github.com/pagopa/io-sdk/blob/master/docs/amministratore.md
     [Issue tracker principale]: https://github.com/noiopen/io-gateway/issues
-    [Repository principale]: https://github.com/pagopa/io-gateway
+    [Repository principale]: https://github.com/pagopa/io-sdk
 
 ## Risorse Sviluppatori
 
